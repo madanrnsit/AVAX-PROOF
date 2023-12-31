@@ -6,7 +6,7 @@ This is simple code used to explain the require,assert and revert statements.
 
 ## Description
 
-This Solidity smart contract named errors contains three functions, Require(), Revert(), and Assert(). Require() uses the require() statement to check if the value of _z is greater than zero, otherwise it throws an error. Revert() checks if the sum of x and y is greater than 10, otherwise it throws an error. Assert() uses the assert() statement to check if n is greater than zero, otherwise it throws an error.
+This Solidity smart contract named errors contains three functions, Require(), Revert(), and Assert(). Require() uses the require() statement to check if the value of z is greater than zero, otherwise it throws an error. Revert() checks if the sum of x1 and y1 is greater than 10, otherwise it throws an error. Assert() uses the assert() statement to check if n is greater than zero, otherwise it throws an error.
  
 
 ## Requirements
